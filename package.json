@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@seedltw/eslint-config-seed": "^0.1.6",
+    "eslint": "^8.41.0",
+    "typescript": "^5.0.4"
+  }
 }
